@@ -1,42 +1,19 @@
-### Hi there 👋
+# 🌟 Bienvenido a mi perfil de GitHub
 
-- 🔭 I’m currently working on My Life
-- 🌱 I’m currently learning Programming
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: [Twitter](https://twitter.com/frank_casanovaa)
+## ¡Hola! Soy Frank Casanova 👋
 
-# Frank Casanova
-Future Web Developer and Data Analyst
+Soy bachiller en Ingeniería Hidráulica con un gran interés por las Ciencias de la Computación. Me encanta combinar mis conocimientos en ingeniería con herramientas tecnológicas para optimizar soluciones en el ámbito geoespacial y de modelado hidráulico.
 
-## ¿Quién soy?
-Hola mi nombre es Frank Casanova, soy estudiante del **Full-stack JavaScript** Developer dictado por el profesor *Guillermo Rodas*.
+### 💻 Tecnologías y Habilidades:
+- ✨ **Lenguaje de Programación:** Python
+- 📊 **Sistemas de Información Geográfica (SIG):** ArcGIS, QGIS
+- 🛠️ **Sistemas Operativos:** Linux (Ubuntu, Debian, etc.)
 
-En este bootcam se aprenderán muchas cosas acerca de la programación
+### 💡 Sobre Mí
+Me apasiona la resolución de problemas mediante la programación, especialmente en el análisis de datos geoespaciales, simulaciones hidráulicas y automatización de procesos en entornos Linux. Siempre estoy en constante aprendizaje y abierto a colaborar en proyectos interesantes.
 
-### Contenido del Bootcamp
+### 🌐 Conéctate conmigo:
+- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/frank-casanova/)  
+- 💻 [GitHub](https://github.com/fgcas/)
 
-#### Semana 1
-
-* Configuración del ambiente de trabajo
-* Instalando Ubuntu en Windows
-* Instalación de Git
-* Configuracion de las llaves SSH
-* Instalación de Node.js y Yarn
-* Primeros pasos con VS Code
-
-...
-
-### Tabla de comandos
-
-| Comando | Descripción |
-|------|-----|
-| `ls` | Lista el directorio actual |
-| `pwd` | Muestra la ruta actual |
-| `clear` | Limpia la pantalla de la terminal |
-
-### Comandos alias 
-
-| Alias | Comando | Descripción |
-|------|-|-----|
-| cls |`clear; ls`| Limpia la terminal y lista los ficheros de la ruta actual |
-| cl |`clear`| Muestra los ficheros de la ruta actual |
+📚 Siempre en búsqueda de nuevos retos y oportunidades de aprendizaje.
